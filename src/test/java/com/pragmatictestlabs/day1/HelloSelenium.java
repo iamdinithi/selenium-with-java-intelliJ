@@ -1,4 +1,4 @@
-package com.pragmatictestlabs;
+package com.pragmatictestlabs.day1;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
